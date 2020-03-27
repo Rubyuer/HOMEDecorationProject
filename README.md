@@ -1,7 +1,7 @@
 # HOMEDecorationProject
-# HOMEDecoration
+# HOMEDecorations
 
-  应用介绍:"HOMEDecoration"app是一款线上购买家居饰品的应用。
+  应用介绍:"HOMEDecorations"app是一款线上购买家居饰品的应用。
   
   应用功能:
     
@@ -19,4 +19,4 @@
     4.其他：卡券、地址管理、商品收藏和相关设置等。
     
   任何意见建议, 请联系我们: 
-  "HOMEDecoration"官方邮箱: cnxnvopg84137@163.com
+  "HOMEDecorations"官方邮箱: cnxnvopg84137@163.com
